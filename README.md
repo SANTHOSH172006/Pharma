@@ -454,9 +454,10 @@ contact.html
 
 ![alt text](<san/ludus/static/Screenshot 2024-05-13 171345.png>)
 
-![alt text](<san/ludus/static/Screenshot 2024-05-13 171354.png>)
+![alt text](<san/ludus/static/Screenshot 2024-05-13 172348.png>)
 
 ![alt text](<san/ludus/static/Screenshot 2024-05-13 171403.png>)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
